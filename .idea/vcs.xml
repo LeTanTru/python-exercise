@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Diagonalizable-matrix_Python" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/8_number_puzzle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/HK211_DoAnAI-1234-HCMUT" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/Path-Finding-Visualisation-with-Pygame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/Sokoban_AI_Solver_Basic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/bfs_dfs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/temp/pathfinding-and-sorting-algorithm-visualizer" vcs="Git" />
+  </component>
+</project>

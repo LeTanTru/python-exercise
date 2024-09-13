@@ -1,0 +1,12 @@
+[
+    "Right",
+ {"state": ("B", "Dirty", "Dirty"),
+  "action": ["Suck",
+   {"state": ("B", "Clean", "Clean"), "action": []},
+   {"state": ("B", "Dirty", "Clean"),
+    "action": ["Left",
+     {"state": ("A", "Dirty", "Clean"),
+      "action": ["Suck",
+       {"state": ("A", "Clean", "Clean"), "action": []},
+       {"state": ("A", "Clean", "Clean"), "action": []}]}]}]}
+]

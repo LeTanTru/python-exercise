@@ -1,0 +1,2 @@
+x,y,z,t = map(input()).split()
+print()

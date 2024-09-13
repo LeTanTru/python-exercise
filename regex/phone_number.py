@@ -1,0 +1,11 @@
+import re
+
+def is_phone_number(phone_number):
+    return re.match(r"^0\d{9}$", phone_number) is not None
+
+phone_number = input("Enter your phone number: ")
+if is_phone_number(phone_number):
+    print("Valid phone number")
+else:
+    print("Invalid phone number")
+

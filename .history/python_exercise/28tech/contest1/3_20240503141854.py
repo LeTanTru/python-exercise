@@ -1,0 +1,2 @@
+c = int(input())
+f = 
